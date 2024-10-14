@@ -11,3 +11,5 @@ TODO:
  - [X] Dice!
  - [ ] Collab!
  - [X] Make a JS libary!
+ - [ ] Gain a career in Software Engineering.
+ - [ ] Goto MIT!
