@@ -10,3 +10,4 @@ TODO:
  - [ ] Get a community member to give an idea!
  - [X] Dice!
  - [ ] Collab!
+ - [X] Make a JS libary!
