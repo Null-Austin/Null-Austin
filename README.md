@@ -13,3 +13,4 @@ TODO:
  - [X] Make a JS libary!
  - [ ] Gain a career in Software Engineering.
  - [ ] Goto MIT!
+ - [ ] twitter 2.0, just worst
