@@ -14,3 +14,4 @@ TODO:
  - [ ] Gain a career in Software Engineering.
  - [ ] Goto MIT!
  - [ ] twitter 2.0, just worst
+i saw a follower of mine had this:`Aperture Science` in his [profile](https://github.com/Vadym-0K), thats funny, so yeah, check him out, clearly a source engine fan, i like for that. im getting bored, can this get any longer? yes, yes it can, so hows you day going?
