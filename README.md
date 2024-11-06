@@ -1,17 +1,21 @@
-Hello, im Austin, im a Student, and yeah
+Hello, I'm Austin. I'm a student, and yeah!
 
+I’m a chess enthusiast, and yeah...
 
-I am a chess enthusist, and yeah...
-TODO:
- - [X] Make a chess system that you can report players, and it counts how many reports a certaint player has.
- - [X] Make a chess system that keeps a players stats, and shows it in a image, and/or html.
- - [ ] Gain poularity
- - [X] Have fun!
- - [ ] Get a community member to give an idea!
- - [X] Dice!
- - [ ] Collab!
- - [X] Make a JS libary!
- - [ ] Gain a career in Software Engineering.
- - [ ] Goto MIT!
- - [ ] twitter 2.0, just worst
-i saw a follower of mine had this:`Aperture Science` in his [profile](https://github.com/Vadym-0K), thats funny, so yeah, check him out, clearly a source engine fan, i like for that. im getting bored, can this get any longer? yes, yes it can, so hows you day going?
+**TODO:**
+- [X] Create a chess system that allows players to report others, counting how many reports a certain player has.
+- [X] Build a chess system that tracks player stats and displays them in an image or HTML.
+- [ ] Gain popularity.
+- [X] Have fun!
+- [ ] Get a community member to suggest an idea!
+- [X] Add dice!
+- [ ] Collaborate!
+- [X] Make a JS library!
+- [ ] Start a career in Software Engineering.
+- [ ] Get into MIT!
+- [ ] Create a "Twitter 2.0" (but worse).
+
+I saw a follower of mine had "Aperture Science" in their [profile](https://github.com/Vadym-0K). That’s funny—clearly a Source Engine fan, which I really like. I’m getting bored, can this get any longer? Yes, yes it can! So, how’s your day going?
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Null-Austin&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Null-Austin&theme=default&show_icons=true&hide_border=true&count_private=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Null-Austin&theme=default&show_icons=true&hide_border=true&layout=compact)  
