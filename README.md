@@ -15,7 +15,7 @@ I’m a chess enthusiast, and yeah...
 - [ ] Get into MIT!
 - [ ] Create a "Twitter 2.0" (but worse).
 
-I saw a follower of mine had "Aperture Science" in their [profile](https://github.com/Vadym-0K). That’s funny—clearly a Source Engine fan, which I really like. I’m getting bored, can this get any longer? Yes, yes it can! So, how’s your day going?
+I saw a follower of mine had "Aperture Science" in their [profile](https://github.com/Vadym-0K). That’s funny—clearly a Source Engine fan, which I really like. I’m getting bored, can this get any longer? Yes, yes it can! So, how’s your day going?<br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Null-Austin&theme=default&show_icons=true&hide_border=true&count_private=true)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Null-Austin&theme=default&show_icons=true&hide_border=true&layout=compact)  
 [cool html projects](https://github.com/Null-Austin/Null-Austin/blob/main/html%20projects)
