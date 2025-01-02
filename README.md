@@ -1,21 +1,11 @@
-Hello, I'm Austin. I'm a student, and yeah!
-
-I’m a chess enthusiast, and yeah...
-
-**TODO:**
-- [X] Create a chess system that allows players to report others, counting how many reports a certain player has.
-- [X] Build a chess system that tracks player stats and displays them in an image or HTML.
-- [ ] Gain popularity.
-- [X] Have fun!
-- [ ] Get a community member to suggest an idea!
-- [X] Add dice!
-- [ ] Collaborate!
-- [X] Make a JS library!
-- [ ] Start a career in Software Engineering.
-- [ ] Get into MIT!
-- [ ] Create a "Twitter 2.0" (but worse).
-
-I saw a follower of mine had "Aperture Science" in their [profile](https://github.com/Vadym-0K). That’s funny—clearly a Source Engine fan, which I really like. I’m getting bored, can this get any longer? Yes, yes it can! So, how’s your day going?<br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Null-Austin&theme=default&show_icons=true&hide_border=true&count_private=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Null-Austin&theme=default&show_icons=true&hide_border=true&layout=compact)  
-[cool html projects](https://github.com/Null-Austin/Null-Austin/blob/main/html%20projects)
+Hello, I'm Austin. I work In python, html, css, javascript and lua. clearly python is my favorite. I support any negative comments, along as you have proof of it, being a bad scripted is not proof ;). I enjoy talking, and I'm american, console wars suck, because atari is clearly the best console. Markdown is annoying
+<br><br>
+I am a chest enthusiast, and I'm sadly only 400 rating, I have been playing on and off for roughly half a year.
+<br><br>
+I try to be as active as humanly possible, but that's kinda hard for me, lol. I'm not very serious all the time.
+<br><br>
+I'm a Christian, who believes in, selflessness (the opposite of selfishness). I am kind, I been told. and I support Ukraine 🇺🇦. I do not support either Palestinian nor Israel. I love all, even my haters. and I try to correct myself. but may fail, please tell me, just don't be rude about it.
+<br><br>
+I play pc, xbox one, xbox 360, and countless other systems on emulators. some of my favorite games are wolfenstein 3d, frogger, and minecraft. I do play some rainbow six siege. I enjoy the news, and I'm very unorganized. please come and visit some more!
+<br>
+~Austin Moore, 14.
