@@ -1,4 +1,4 @@
-Hello, I'm Austin. I work In python, html, css, javascript and lua. clearly python is my favorite. I support any negative comments, along as you have proof of it, being a bad scripted is not proof ;). I enjoy talking, and I'm american, console wars suck, because atari is clearly the best console. Markdown is annoying
+Hello, I'm Austin. I work In python, html, css, javascript and lua. clearly python is my favorite. I support any negative comments, along as you have proof of it, being bad is not proof ;). I enjoy talking, and I'm american, console wars suck, because atari is clearly the best console. Markdown is annoying
 <br><br>
 I am a chest enthusiast, and I'm sadly only 400 rating, I have been playing on and off for roughly half a year.
 <br><br>
