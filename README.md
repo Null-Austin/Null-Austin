@@ -9,6 +9,6 @@ Uh, some links:
 Thanks for reading this :D I hope all yall days are full of compiler issues that magically fix themselves :D
 
 TODO: <!-- emoji designs: ⬜✅-->
-| Ideas | Description | Finished|
-|---|---|---|
-| **Game Engine** | A custom game engine created in C# while coding done in Lua | ⬜ |
+| Name | Ideas | Description | Finished|
+|---|---|---|---|
+|...?|**Game Engine** | A custom game engine created in C# while coding done in Lua | ⬜ |
