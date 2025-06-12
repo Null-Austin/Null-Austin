@@ -7,3 +7,8 @@ Uh, some links:
 
 
 Thankyou for reading! have a great day...
+
+TODO: <!-- emoji designs: ⬜✅-->
+| Ideas | Description | Finished|
+|---|---|---|
+| **Game Engine** | A custom game engine created in C# while coding done in Lua | ⬜ |
