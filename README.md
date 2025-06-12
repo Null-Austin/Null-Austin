@@ -6,7 +6,7 @@ Uh, some links:
 [mt](https://monkeytype.com/profile/Nullaustin)
 
 
-Thankyou for reading! have a great day...
+Thanks for reading this :D I hope all yall days are full of compiler issues that magically fix themselves :D
 
 TODO: <!-- emoji designs: ⬜✅-->
 | Ideas | Description | Finished|
