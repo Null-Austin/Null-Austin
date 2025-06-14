@@ -12,4 +12,4 @@ TODO: <!-- emoji designs: ⬜✅🛠️-->
 | Name | Ideas | Description | Finished|
 |---|---|---|---|
 |***Novum Engine***|*Game Engine* | A custom game engine created in C# while coding done in Lua | ⬜ |
-|***Lackey***| *Anti Bias AI model* | A simple news reading ai, that returmns the red/blue/neutral views of articles |🛠️|
+|***[Lackey](https://github.com/Null-Austin/Lackey)***| *Anti Bias AI model* | A simple news reading ai, that returmns the red/blue/neutral views of articles |🛠️|
