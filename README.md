@@ -14,3 +14,4 @@ TODO: <!-- emoji designs: ⬜✅🛠️-->
 |***Novum Engine***|*Game Engine* | A custom game engine created in C# while coding done in Lua | ⬜ |
 |***[Lackey](https://github.com/Null-Austin/Lackey)***| *Anti Bias AI model* | A simple news reading ai, that returmns the red/blue/neutral views of articles |🛠️|
 |***?***|live security scanner for node|a live security scanned for express, and possibly even expand outwards | ⬜ |
+|***PasswordForge***| Global effort to brute force passwords | May sound bad, but a user puts in a RAW text password, that then community servers work together to bruteforce, just to see how fast it could be brute forced. | 🛠️ |
