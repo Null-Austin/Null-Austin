@@ -17,12 +17,9 @@ SoM view tracker, will prolly be renamed to view tracker tbh, anyways, its a awe
 - [Demo](https://som-views.null-austin.me/) - SoM views offical website!
 - [Repo](https://github.com/Null-Austin/SoM-view-tracker/) - SoM views offical GitHub repo!
 
----
+#### WikiBeachia
 
-### WikiBeachia
-
-<!-- markdownlint-disable-next-line MD024 -->
-#### Description
+##### Description
 
 Cool wiki website!!!
 
