@@ -1,5 +1,7 @@
 # Welcome
 
+![view counter lol](https://som-views.null-austin.me/svg/views/null-austin-github/som-2.svg)
+
 Hello fellow programers and hackers! Today I am your host, and want to welcome you to my wonderful userpage! You may be asking where do we go from here? Thats a great question, and uh, yeah, ill just get to the point!
 
 ## Projects
