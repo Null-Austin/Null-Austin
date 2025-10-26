@@ -1,29 +1,20 @@
-# Welcome
+![Profile header](/header.png)
+Where do we start?... Developer + Founder of [@Austinsdk](https://github.com/austinsdk)!
 
-![view counter lol](https://som-views.null-austin.me/svg/views/null-austin-github/som-2.svg)
+## My Skills! 🥇
+Here are some tools I have used in the past, no guarantee of quality
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,azure,bash,blender,bootstrap,bun,cs,cpp,cloudflare,codepen,css,discord,discordjs,electron,express,figma,flask,git,github,gmail,html,java,js,latex,linux,md,mongodb,nextjs,nodejs,notion,npm,obsidian,ps,pnpm,postman,powershell,py,raspberrypi,react,regex,robloxstudio,sass,sqlite,stackoverflow,sublime,svg,tailwind,ts,visualstudio,vscode,windows,wordpress,xd" />
+</p>
 
-Hello fellow programers and hackers! Today I am your host, and want to welcome you to my wonderful userpage! You may be asking where do we go from here? Thats a great question, and uh, yeah, ill just get to the point!
+### My Most Used Lanagues
+<p align="center">
+  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=2945&api_domain=hackatime.hackclub.com&&custom_title=Hackatime&layout=donut&cache_seconds=0&langs_count=8&theme=gotham" />
+</p>
 
-## Projects
+## Where I am
+I am located in the 4 state area, I am willing to do freelancing!
 
-Here's a list of all my wonderful projects I have, or am developing!!!
-
-### [SoM (Summer of Making)](https://summer.hackclub.com/)
-
-#### SoM View tracker
-
-##### Description
-
-SoM view tracker, will prolly be renamed to view tracker tbh, anyways, its a awesome project where u can track view on webpages with awesome svg's!
-
-- [Demo](https://som-views.null-austin.me/) - SoM views offical website!
-- [Repo](https://github.com/Null-Austin/SoM-view-tracker/) - SoM views offical GitHub repo!
-
-#### WikiBeachia
-
-##### Description
-
-Cool wiki website!!!
-
-- [Demo](https://wiki.null-austin.me/) - WikiBeachia's official website!
-- [Repo](https://github.com/Null-Austin/wikibeachia/) - WikiBeachia's official repo :D!
+## Contact me!
+ - [Email](mailto:austin@austinsdk.me)
+ - [Hack Club Slack](https://hackclub.slack.com/team/U08SKE8JU5S)
