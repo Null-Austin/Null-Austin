@@ -12,10 +12,10 @@ Here are some tools I have used in the past, no guarantee of quality
   <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=2945&api_domain=hackatime.hackclub.com&&custom_title=Hackatime&layout=donut&cache_seconds=0&langs_count=8&theme=gotham" />
 </p>-->
 
-### Contribs
+<!-- ### Contribs (Wait to check out more open source projects that i can help with contribs!)
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Null-Austin&hide=B&theme=dark" />
-</p>
+</p>-->
 
 ## Where I am
 I am located in the 4 state area, I am willing to do freelancing!
