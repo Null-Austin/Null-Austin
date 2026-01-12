@@ -17,10 +17,10 @@ Here are some tools I have used in the past, no guarantee of quality
   <img src="https://github-contributor-stats.vercel.app/api?username=Null-Austin&hide=B&theme=dark" />
 </p>-->
 
-### My GitHub Rating
+<!--### My GitHub Rating
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=null-austin&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" />
-</p>
+</p>-->
 
 ## Where I am
 I am located in the 4 state area, I am willing to do freelancing!
