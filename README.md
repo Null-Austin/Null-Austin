@@ -7,7 +7,7 @@ Here are some tools I have used in the past, no guarantee of quality
   <img src="https://skillicons.dev/icons?i=arduino,azure,bash,blender,bootstrap,bun,cs,cpp,cloudflare,codepen,css,discord,discordjs,electron,express,figma,flask,git,github,gmail,html,java,js,latex,linux,md,mongodb,nextjs,nodejs,notion,npm,obsidian,ps,pnpm,postman,powershell,py,raspberrypi,react,regex,robloxstudio,sass,sqlite,stackoverflow,sublime,svg,tailwind,ts,visualstudio,vscode,windows,wordpress,xd" />
 </p>
 
-### My Most Used Lanagues (Private profile)
+### My Most Used Lanagues
 <p align="center">
   <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=2945&api_domain=hackatime.hackclub.com&&custom_title=Hackatime&layout=donut&cache_seconds=0&langs_count=8&theme=gotham" />
 </p>
