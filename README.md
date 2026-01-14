@@ -23,8 +23,9 @@ Here are some tools I have used in the past, no guarantee of quality
 </p>-->
 
 ## Where I am
-I am located in the 4 state area, I am willing to do freelancing!
+Somewhere I guess
 
 ## Contact me!
- - [Email](mailto:austin@austinsdk.me)
+ - [Email](mailto:austin@austinsdk.me) /Professional
+ - [Email](mailto:nullaustin2007@gmail.com) /Personal
  - [Hack Club Slack](https://hackclub.slack.com/team/U08SKE8JU5S)
