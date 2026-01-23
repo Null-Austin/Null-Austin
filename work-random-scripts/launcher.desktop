@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Launch Terminal
+Comment=Open a terminal or shell
+Exec=sh -c "xterm || gnome-terminal || konsole || alacritty || kitty || xfce4-terminal || lxterminal || mate-terminal || /bin/sh"
+Icon=utilities-terminal
+Terminal=false
+Categories=System;
