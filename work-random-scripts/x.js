@@ -6,3 +6,5 @@ x.backgroundSize = "cover";
 document.querySelector(".mainDiv").style.backgroundColor = "none";
 b.background = "url(\"https://wallpapers.com/images/featured/funny-cat-v24i6v24vmtk4ygu.jpg\") no-repeat center";
 b.backgroundSize = "cover";
+
+javascript:document.body.contentEditable = true; void 0;
