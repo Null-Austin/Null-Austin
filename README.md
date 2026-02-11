@@ -21,9 +21,11 @@ Here are some tools I have used in the past
 
 ### Music..?
 
-<p align="center">
+<p align="center" style="color: black; font-size: 2px">
+  <img src="./shh.svg" alt="Shhh, we dont talk about this." />
+  <br>
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31cmq4ipmlck5nohnb3rbzwrzov4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31cmq4ipmlck5nohnb3rbzwrzov4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" />
   </a>
 </p>
 
