@@ -1,10 +1,12 @@
 ![Profile header](/header.png)
 Where do we start?... Developer + Founder of [@Austinsdk](https://github.com/austinsdk)!
 
+Also amazing website creator ***(\*cough cough\* [austinsdk](https://austinsdk.me) [null-austin]("https://pages.austinsdk.me))***
+
 ## My Skills! 🥇
-Here are some tools I have used in the past, no guarantee of quality
+Here are some tools I have used in the past
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,azure,bash,blender,bootstrap,bun,cs,cpp,cloudflare,codepen,css,discord,discordjs,electron,express,figma,flask,git,github,gmail,html,java,js,latex,linux,md,mongodb,nextjs,nodejs,notion,npm,obsidian,ps,pnpm,postman,powershell,py,raspberrypi,react,regex,robloxstudio,sass,sqlite,stackoverflow,sublime,svg,tailwind,ts,visualstudio,vscode,windows,wordpress,xd" />
+  <img src="https://skillicons.dev/icons?i=arduino,bash,blender,bun,cloudflare,codepen,css,discord,discordjs,electron,express,figma,flask,git,github,gmail,html,js,linux,md,mongodb,nodejs,notion,npm,obsidian,pnpm,postman,powershell,py,raspberrypi,react,sass,stackoverflow,svg,ts,vscode,windows,xd" />
 </p>
 
 ### My Most Used Lanagues
