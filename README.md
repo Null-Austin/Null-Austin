@@ -41,6 +41,7 @@ Here are some tools I have used in the past
 Somewhere I guess
 
 ## Contact me!
- - [Email](mailto:austin@austinsdk.me) /Professional
- - [Email](mailto:nullaustin2007@gmail.com) /Personal
+ - [Email](mailto:austin@austinsdk.me) /Professional *(Business email, use for buisness inquiries)*
+ - [Email](mailto:nullaustin2007@gmail.com) /Personal *(Spam, main contact email)*
+ - [Email](mailto:admoore1310@gmail.com) /Personal *(Main email, use for important issues)*
  - [Hack Club Slack](https://hackclub.slack.com/team/U08SKE8JU5S)
