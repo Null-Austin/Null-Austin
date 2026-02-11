@@ -14,6 +14,19 @@ Here are some tools I have used in the past
   <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=2945&api_domain=hackatime.hackclub.com&&custom_title=Hackatime&layout=donut&cache_seconds=0&langs_count=8&theme=gotham" />
 </p>
 
+### Contribs
+<p align="center">
+  <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=null-austin&stats=true&credit=true&width=800&height=400" />
+</p>
+
+### Music..?
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31cmq4ipmlck5nohnb3rbzwrzov4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
+  </a>
+</p>
+
 <!-- ### Contribs (Wait to check out more open source projects that i can help with contribs!)
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Null-Austin&hide=B&theme=dark" />
