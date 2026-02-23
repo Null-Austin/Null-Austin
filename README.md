@@ -20,6 +20,12 @@ Here are some tools I have used in the past
   <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=null-austin&stats=true&credit=true&width=800&height=400" />
 </p>
 
+### Typing Speeds
+*Is this necessary..? Yes*
+[<p align="center">
+  <img src="https://monkeytype-readme.com/generate-svg/Nullaustin/dark_magic_girl?pb=true" />
+</p>](https://monkeytype-readme.com/)
+
 ### Music..?
 
 <p align="center" style="color: black; font-size: 2px">
