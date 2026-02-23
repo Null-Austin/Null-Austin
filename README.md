@@ -22,9 +22,9 @@ Here are some tools I have used in the past
 
 ### Typing Speeds
 *Is this necessary..? Yes*
-[<p align="center">
-  <img src="https://monkeytype-readme.com/generate-svg/Nullaustin/dark_magic_girl?pb=true" />
-</p>](https://monkeytype-readme.com/)
+<p align="center">
+  <a href="https://monkeytype-readme.com/" src="https://monkeytype-readme.com/"><img src="https://monkeytype-readme.com/generate-svg/Nullaustin/dark_magic_girl?pb=true" /></a>
+</p>
 
 ### Music..?
 
