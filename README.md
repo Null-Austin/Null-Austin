@@ -7,17 +7,23 @@ Also amazing website creator ***(\*cough cough\* [austinsdk](https://austinsdk.m
 ## My Skills! 🥇
 Here are some tools I have used in the past
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,bash,blender,bun,cloudflare,codepen,css,discord,discordjs,electron,express,figma,flask,git,github,gmail,html,js,linux,md,mongodb,nodejs,notion,npm,obsidian,pnpm,postman,powershell,py,raspberrypi,react,sass,stackoverflow,svg,ts,vscode,windows,xd" />
+  <a href="https://skillicons.dev/">
+    <img src="https://skillicons.dev/icons?i=arduino,bash,blender,bun,cloudflare,codepen,css,discord,discordjs,electron,express,figma,flask,git,github,gmail,html,js,linux,md,mongodb,nodejs,notion,npm,obsidian,pnpm,postman,powershell,py,raspberrypi,react,sass,stackoverflow,svg,ts,vscode,windows,xd" />
+  </a>
 </p>
 
 ### My Most Used Lanagues
 <p align="center">
-  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=2945&api_domain=hackatime.hackclub.com&&custom_title=Hackatime&layout=donut&cache_seconds=0&langs_count=8&theme=gotham" />
+  <a href="https://github-readme-stats.hackclub.dev">
+    <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=2945&api_domain=hackatime.hackclub.com&&custom_title=Hackatime&layout=donut&cache_seconds=0&langs_count=8&theme=gotham" />
+  </a>
 </p>
 
 ### Contribs
 <p align="center">
-  <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=null-austin&stats=true&credit=true&width=800&height=400" />
+  <a href="https://isometric-contributions-spectrewolf8.onrender.com/" src="https://isometric-contributions-spectrewolf8.onrender.com/">
+    <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=null-austin&stats=true&credit=true&width=800&height=400" />
+  </a>
 </p>
 
 ### Typing Speeds
@@ -54,3 +60,5 @@ Somewhere I guess
  - [Email](mailto:nullaustin2007@gmail.com) /Personal *(Spam, main contact email)*
  - [Email](mailto:admoore1310@gmail.com) /Personal *(Main email, use for important issues)*
  - [Hack Club Slack](https://hackclub.slack.com/team/U08SKE8JU5S)
+
+<a href="https://github.com/Null-Austin/Null-Austin/blob/main/README.md?plain=1" align="center">GitHub Readme Raw</a>
