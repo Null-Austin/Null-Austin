@@ -52,12 +52,9 @@ Here are some tools I have used in the past
   <img src="https://github-readme-stats.vercel.app/api?username=null-austin&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" />
 </p>-->
 
-## Where I am
-Somewhere I guess
-
 ## Contact me!
  - [Email](mailto:austin@austinsdk.me) /Professional *(Business email, use for buisness inquiries)*
- - [Email](mailto:nullaustin2007@gmail.com) /Personal *(Spam, main contact email)*
+ - [Email](mailto:austin.sdk@gmail.com) /Professional *(Contact email)*
  - [Email](mailto:admoore1310@gmail.com) /Personal *(Main email, use for important issues)*
  - [Hack Club Slack](https://hackclub.slack.com/team/U08SKE8JU5S)
 
