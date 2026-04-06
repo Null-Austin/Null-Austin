@@ -17,6 +17,7 @@ Here are some tools I have used in the past
   <a href="https://github-readme-stats.hackclub.dev">
     <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=2945&api_domain=hackatime.hackclub.com&&custom_title=Hackatime&layout=donut&cache_seconds=0&langs_count=8&theme=gotham" />
   </a>
+  <i>**(Not updated)**</i>
 </p>
 
 ### Contribs
